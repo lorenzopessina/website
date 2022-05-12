@@ -5,7 +5,7 @@ layout: single
 
 ## Working Papers
 
-### [Importing Inequality: Immigration and the Top 1 percent](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp508.2020.pdf)
+### [Immigration and the Top 1 percent](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp508.2020.pdf)
 
 Joint with Arun Advani, Felix Koenig, and Andy Summers. *Revised and Resubmitted, Review of Economics and Statistics*
 
@@ -16,6 +16,8 @@ Joint with Arun Advani, Felix Koenig, and Andy Summers. *Revised and Resubmitted
 **Other Materials:** [Slides](/slides/AKPS_Slides.pdf), [Presentation](https://www.youtube.com/watch?v=A25e9KPowok&t=3736s&ab_channel=DuuzraStreaming) at the Econometric Society's World Congress in August 2020
 
 ### [Shirtsleeves to Shirtsleeves? Income Persistence, Family Firms, and Aristocratic Dynasties](/papers/Shirtsleeves_to_shirtsleeves.pdf)
+
+*Submitted*
 
 **Abstract:** I document that present-day descendants of aristocratic dynasties enjoy high economic
 status in Italy, several decades or centuries after their ancestors first received a title.
