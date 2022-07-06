@@ -10,4 +10,4 @@ L7, 1 \
 Germany
 
 **Email:** \
-Lorenzo.Pessina@zew.de
+pessina.lorenzo@gmail.com
