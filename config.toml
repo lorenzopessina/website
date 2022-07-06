@@ -101,7 +101,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/lorenzo-pessina-821b7b69/"
+      url       = "https://www.linkedin.com/in/lorenzo-pessina/"
   
 
 [taxonomies]
