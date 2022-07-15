@@ -34,12 +34,3 @@ measures of intergenerational mobility.
 
 **Abstract:** The design of tax collection is largely considered to be inconsequential in the academic literature, yet policy makers frequently implement reforms to it. Combining a new administrative dataset on firm-to-firm links from Italy and a quasiexperimental research design, I study how firms and markets adapt to a reform of the collection of Value Added Tax (VAT). The reform shifted the responsibility to remit payments of VAT from sellers to “trusted” buyers, such as government entities and large firms. I present three main findings. First, firm-to-firm links subject to the new rules are more likely to become inactive after the introduction of the new rules. Second, I find that the reform was costly for the average firm. Firms more exposed to the reform experienced lower sales and higher exit rates, relative to the counterfactual. Third, I document that the burden of the reform is not evenly distributed across firms. Small firms are hit hardest, while large firms do not appear to be negatively affected. As a result, I show that markets more exposed to the reform became more concentrated.
 
-## Research Papers in Progress
-
-### Taxation and the International Relocation of Top Earners:
-
-Joint with Arun Advani, Felix Koenig, and Andy Summers
-
-### The Saved and the Probate
-
-Joint with Cameron LaPoint
