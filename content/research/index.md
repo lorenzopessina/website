@@ -17,7 +17,7 @@ Joint with Arun Advani, Felix Koenig, and Andy Summers. *Accepted, Review of Eco
 
 ### [Shirtsleeves to Shirtsleeves? Income Persistence, Family Firms, and Aristocratic Dynasties](/papers/Shirtsleeves_to_shirtsleeves.pdf)
 
-*Revise and Resubmit*
+*Revise and Resubmit, Review of Income and Wealth*
 
 **Abstract:** I document that present-day descendants of aristocratic dynasties enjoy high economic
 status in Italy, several decades or centuries after their ancestors first received a title.
