@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "Lorenzo Pessina"
   orgLocal = ""
   description = ""
-  favicon = "img/ZEW_logo4.png"
+  favicon = ""
   logo = ""
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -91,14 +91,6 @@ enableEmoji = true
       icon_pack = "far"
       url       = "mailto:pessina.lorenzo@gmail.com"
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/lorenzopessina"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/lorenzo_pss"
-  [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/lorenzo-pessina/"
@@ -121,28 +113,6 @@ enableEmoji = true
     title = "Research"
     url = "/research/"
     weight = 2
-  [[menu.header]]
-    name = "Vita"
-    title = "curriculum"
-    url = "/vita/"
-    weight = 3
-  [[menu.header]]
-    name = "Contact"
-    title = "Contact"
-    url = "/contacts/"
-    weight = 4
-  [[menu.header]]
-    name = "Teaching"
-    title = "Teaching"
-    url = "/teaching/"
-    weight = 5
-    
-  # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
   
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
