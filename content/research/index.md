@@ -7,7 +7,9 @@ layout: single
 
 ### [Immigration and the Top 1 percent](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp508.2020.pdf)
 
-Joint with Arun Advani, Felix Koenig, and Andy Summers. *Accepted, Review of Economics and Statistics*
+Joint with Arun Advani, Felix Koenig, and Andy Summers. 
+
+*Accepted, Review of Economics and Statistics*
 
 **Abstract:** In this paper we study the contribution of migrants to the rise in UK top incomes. Using administrative data on the universe of UK taxpayers we show migrants are concentrated at the top of the income distribution, with migrants twice as prevalent in the top 0.1 percent as anywhere in the bottom 96 percent. These high incomes are predominantly from labour, rather than capital, and migrants are concentrated in only a handful of industries, predominantly finance. Almost all (85%) of the growth in the UK top 1% income share over the past 20 years can be attributed to migration.
 
